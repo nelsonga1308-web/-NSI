@@ -1,3 +1,3 @@
 # -NSI
-un petit dépôt pour les premières NSI 
+un petit dépôt pour les premières NSI <br>
 Des trucs sur `html`,`css`, `javascript`...
